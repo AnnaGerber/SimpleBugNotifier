@@ -1,0 +1,9 @@
+Simple server that polls twitter and RSS and posts events for the Ambient Bugs project at The Edge.
+
+This code was developed at Hack the Evening at The Edge.
+
+The bugs make bug sounds and glow in different colours everytime when someone tweets about the Edge (@slqedge, #slqedge) or when there is an action on the Edge website (e.g. someone posts something, signs up for the Edge social network, joins a group, etc).
+
+We equipped each of the three bugs with LED eyes that can glow, an EL-wired body that can blink and a speaker for the sound. The bugs are built using arduino and have a REST API for interested people to create their own applications and make the bugs glow, blink and sound when a particular event happens.
+
+See http://edgeqld.org.au/ for more information about The Edge
